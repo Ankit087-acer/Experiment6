@@ -8,7 +8,7 @@ BMI Calculation: Calculates BMI based on the user's weight and height.
 
 Save BMI Records: Records the BMI calculation and status (Underweight, Normal, Overweight, Obesity) in a MongoDB database.
 
-View BMI Records: You can view saved BMI records by connecting to the database through MongoDB Compass or MongoDB Shell.
+View BMI Records: You could view saved BMI records by connecting to the database through MongoDB Compass or MongoDB Shell.
 
 Prerequisites
 
